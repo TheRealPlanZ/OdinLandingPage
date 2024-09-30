@@ -106,6 +106,7 @@ header {
 .info-boxes {
     display: flex;
     justify-content: space-around;
+    
 }
 
 .info-box {
@@ -119,8 +120,9 @@ header {
 
 .info-image {
     height: 150px;
-    width: 100%;
+    width: 150px;
     border: 2px solid #3882F6;
+    border-radius: 10px;
 }
 
 .quote {
